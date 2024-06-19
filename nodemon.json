@@ -1,0 +1,4 @@
+{
+  "watch": ["**/*.js", ".env"],
+  "exec": "npm run babel-node"
+}
